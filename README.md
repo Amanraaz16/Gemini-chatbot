@@ -96,7 +96,6 @@ Gemini-chatbot/
 - .env is included in .gitignore by default.
 
 💡 Contributing
-Contributions are welcome!
 
 1. Fork the repository.
 
@@ -116,6 +115,5 @@ Aman Raj
 
 GitHub: https://github.com/Amanraaz16
 
-Email: amanraazgupta@gmail.com
 Email: amanraazgupta@gmail.com
 
