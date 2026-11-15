@@ -10,7 +10,7 @@ A conversational AI chatbot built in Python that allows you to chat naturally fr
 - 🏃 **Exit Command** – type `exit` to end the chat session.
 - 🔒 **Secure API Key** – uses `.env` to keep your Gemini API key safe.
 - ⚡ **Easy Setup** – clone the repo, install dependencies, and start chatting.
-- 🌐 **Cross-Platform** – works on Windows, Mac, and Linux.
+- 🌐 **Cross-Platform** – works on Windows, Mac &Linux .
 
 ---
 
@@ -96,16 +96,17 @@ Gemini-chatbot/
 - .env is included in .gitignore by default.
 
 💡 Contributing
+ Contributing
 
-1. Fork the repository.
+Fork the repository.
 
-2. Create a new branch: git checkout -b feature-name.
+Create a new branch: git checkout -b feature-name.
 
-3. Make your changes and commit: git commit -m "Add new feature".
+Make your changes and commit: git commit -m "Add new feature".
 
-4. Push your branch: git push origin feature-name.
+Push your branch: git push origin feature-name.
 
-5. Open a Pull Request.
+Open a Pull Request.
 
 🤝 Contact
 
