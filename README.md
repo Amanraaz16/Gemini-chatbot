@@ -1,6 +1,6 @@
 # 🤖 Gemini Chatbot
 
-A conversational AI chatbot built in Python that allows you to chat naturally from your terminal. Powered by Google's Gemini API, this project is lightweight, easy to set up, and perfect for experimenting with AI conversations.
+"A conversational AI chatbot built in Python that allows you to chat naturally from your terminal. Powered by Google's Gemini API, this project is lightweight, easy to set up, and perfect for experimenting with AI conversations".
 
 ---
 
