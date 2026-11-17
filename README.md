@@ -27,7 +27,7 @@ Gemini: Hello! How can I help you today?
 
 You: exit
 
-Gemini: Bye! 👋
+Gemini :BYE 
 
 
 ---
@@ -113,6 +113,7 @@ Open a Pull Request.
 more modification coming soon.
 
 Aman Raj
+vivekananda Global University
 
 GitHub: https://github.com/Amanraaz16
 
